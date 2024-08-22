@@ -1,3 +1,6 @@
+server:
+  port: 8080
+
 spring:
   datasource:
     url: jdbc:postgresql://dpg-cr3b9mij1k6c73djhjag-a.singapore-postgres.render.com/ecom_g8ph
