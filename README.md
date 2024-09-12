@@ -86,7 +86,7 @@ Endpoint: /products/{product_id}
 Method: GET
 Description: Retrieves detailed information about a specific product.
 Example Request:
-curl -X GET https://ecommerce-23dd.onrender.com/products/1
+ GET https://ecommerce-23dd.onrender.com/products/1
 Response:
 json:
 {
